@@ -1,6 +1,3 @@
-
-
-
 def find(l):
     if len(l)==0:
         return (none)
@@ -14,4 +11,5 @@ def find(l):
                 max=number
             else:
                 continue
+
     return(min,max)
